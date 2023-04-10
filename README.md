@@ -14,11 +14,11 @@
 - [Product Details](#details)
 
 ### Home
-![home]()
+![home](https://github.com/nicolefeliceee/ProductCatalog/blob/main/public/assets/readme/home.png)
 ### Catalogue
-![catalogue]()
+![catalogue](https://github.com/nicolefeliceee/ProductCatalog/blob/main/public/assets/readme/catalogue.png)
 ### Details
-![details]()
+![details](https://github.com/nicolefeliceee/ProductCatalog/blob/main/public/assets/readme/details.png)
 
 ## 📮 Contact
 If you have any **questions** or **comments**, feel free to reach out to me at
