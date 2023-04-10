@@ -14,10 +14,13 @@ This website shows you a comprehensive list of the most popular board game in th
 - [Product Details](#details)
 
 ### Home
+This is the first page that will show up when you open this website. Let's get started!
 ![home](https://github.com/nicolefeliceee/ProductCatalog/blob/main/public/assets/readme/home.png)
 ### Catalogue
+This page shows you list of the most popular board game in the world
 ![catalogue](https://github.com/nicolefeliceee/ProductCatalog/blob/main/public/assets/readme/catalogue.png)
 ### Details
+This page shows you the detailed information about each board game
 ![details](https://github.com/nicolefeliceee/ProductCatalog/blob/main/public/assets/readme/details.png)
 
 ## 📮 Contact
