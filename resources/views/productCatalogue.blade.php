@@ -1,6 +1,8 @@
 @extends('layouts.main')
 
 @section('title', 'Product Catalogue')
+@section('keywords', 'Product Catalogue, Board Game, Monopoly, Catan, Scrabble, Chess, Risk')
+@section('description', 'List of the most popular board game in the world with name, price, status, and description')
 
 @section('content')
 <div class="catalogue d-flex flex-wrap justify-content-start">

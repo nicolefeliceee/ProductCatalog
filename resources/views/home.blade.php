@@ -1,6 +1,8 @@
 @extends('layouts.main')
 
 @section('title', 'Home')
+@section('keywords', 'Product Catalogue, Board Game, Product Details')
+@section('description', 'Search the most popular board game in the world')
 
 @section('content')
     <div class="starter d-flex flex-column justify-content-center align-items-center">
