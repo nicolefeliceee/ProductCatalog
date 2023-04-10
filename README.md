@@ -1,7 +1,7 @@
-# 
+# Product Catalogue
 
 ## 🏷 Description
-
+This website shows you a comprehensive list of the most popular board game in the world. It contains detailed information about each board game, including its name, picture, status, price, and description. The purpose of this website is to provide you with an easy-to-use reference about board game.
 
 ## 🛠️ Built with
 - **Laravel 9**: for well structured and organized works
